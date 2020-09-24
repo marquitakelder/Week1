@@ -8,17 +8,24 @@
 * I watch cat videos when I can't sleep at night.
 * I love spaghetti!
 
+## **Images and Videos**
+
 ![This is an image of a laptop.](https://images.pexels.com/photos/2740956/pexels-photo-2740956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 [This is a video of Nick, my Web Development Instructor, explaining CLI basics on the first day of class!](https://www.youtube.com/watch?v=PyTqQttj6Gg&feature=youtu.be)
 
+
 ![This is a beautiful image of a Maine Coon cat.](https://images.pexels.com/photos/208967/pexels-photo-208967.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940c)
+
 
 [This is a particularly heartwarming cat video!](https://www.youtube.com/watch?v=ICNpvp9mkSA)
 
+
 ![This is an image of a plate of spaghetti!](https://images.pexels.com/photos/41320/beef-cheese-cuisine-delicious-41320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
-[This is a how-to video for aspiring spaghetti chefs.](https://www.youtube.com/watch?v=ntY0NEWwEx0)
+
+[This is a how-to video for aspiring spaghetti chefs!](https://www.youtube.com/watch?v=ntY0NEWwEx0)
 
 ## **Lorem Ipsum Text**
 
@@ -27,5 +34,7 @@
 
 >> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui faucibus in ornare quam. Vestibulum sed arcu non odio euismod lacinia at quis. Facilisis volutpat est velit egestas dui. Convallis posuere morbi leo urna molestie at elementum eu facilisis. Nisl purus in mollis nunc sed id. Volutpat commodo sed egestas egestas. Eu sem integer vitae justo eget magna. Euismod elementum nisi quis eleifend. Tincidunt eget nullam non nisi est sit amet. Lorem ipsum dolor sit amet consectetur. Arcu ac tortor dignissim convallis aenean et tortor at risus. At in tellus integer feugiat scelerisque. Adipiscing tristique risus nec feugiat in fermentum. Id interdum velit laoreet id donec.
 >>
+
+## **Inline Code**
 
 This web site is using `markedjs/marked`. 
